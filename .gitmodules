@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "abn"]
+	path = abn
+	url = https://github.com/cran/abn
+	shallow = true
+	registered = true
+[submodule "dotCall64"]
+	path = dotCall64
+	url = https://github.com/cran/dotCall64
+	shallow = true
+	registered = true
+[submodule "spam"]
+	path = spam
+	url = https://github.com/cran/spam
+	shallow = true
+	registered = true
+[submodule "spam64"]
+	path = spam64
+	url = https://github.com/cran/spam64
+	shallow = true
+	registered = true
