@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dotCall64"]
-	path = dotCall64
-	url = https://github.com/cran/dotCall64
 [submodule "spam"]
 	path = spam
 	url = https://github.com/cran/spam
